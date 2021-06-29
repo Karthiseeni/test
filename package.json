@@ -1,1 +1,3 @@
-{}
+"publishConfig": {
+  "Karthiseeni:registry": "https://npm.pkg.github.com"
+}
